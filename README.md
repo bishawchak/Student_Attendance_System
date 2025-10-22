@@ -19,8 +19,10 @@ A web-based application designed for teachers to efficiently manage and track st
 - **Backend**: C# with ASP.NET
 - **Database**: SQL Server 
 
-## Demo
-![System Demo](Screenshot%202025-10-22%20134803.png)
+## Screenshots
+![System Demo](homepage.png)
+![System Demo](attendance.png)
+![System Demo](database.png)
 
 ## Installation
 1. Ensure you have .NET Framework and Visual Studio installed
